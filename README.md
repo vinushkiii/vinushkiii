@@ -63,11 +63,12 @@
 
 ---
 
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinushkiii&show_icons=true&theme=radical&hide_border=true)
+### 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinushkiii&layout=compact&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vinushkiii&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vinushkiii&layout=compact&theme=radical&hide_border=true)
 
 ---
 
