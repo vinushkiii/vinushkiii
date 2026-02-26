@@ -7,7 +7,7 @@
 
 ---
 
-### 👩‍💻 About Me
+## 👩‍💻 About Me
 
 - 🎓 Undergraduate at **Informatics Institute of Technology (IIT)**
 - 💻 Following a Bachelor's Degree in IT / Computer Science
@@ -18,7 +18,7 @@
 
 ---
 
-### 💻 What I'm Currently Working On
+## 💻 What I'm Currently Working On
 
 - 🔹 Practicing OOP concepts using Java  
 - 🔹 Building small projects using HTML, CSS & JavaScript  
@@ -27,35 +27,35 @@
 
 ---
 
-### 🛠️ Languages and Tools
+## 🛠️ Languages and Tools
 
 <p align="left"> 
 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+<a href="https://www.w3.org/html/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
 </a>
 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+<a href="https://www.w3schools.com/css/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
 </a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
 </a>
 
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
+<a href="https://www.java.com" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
 </a>
 
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
+<a href="https://www.python.org" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
 </a>
 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+<a href="https://www.mysql.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
 </a>
 
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
 </a>
 
@@ -63,27 +63,15 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vinushkiii&show_icons=true&theme=radical&hide_border=true&rank_icon=github&cache_seconds=1800" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinushkiii&show_icons=true&theme=radical&hide_border=true)
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinushkiii&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinushkiii&layout=compact&theme=radical&hide_border=true)
 
 ---
 
-### 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=vinushkiii&theme=radical&hide_border=true" />
-</p>
-
----
-
-### 🤝 Connect with Me
+## 🤝 Connect with Me
 
 <p align="left">
 <a href="https://linkedin.com/in/vinushki-fernando" target="blank">
@@ -101,7 +89,7 @@
 
 ---
 
-### ✨ Personal Motto
+## ✨ Personal Motto
 
 > “Learn continuously. Build confidently. Grow endlessly.” 💡
 
